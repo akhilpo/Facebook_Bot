@@ -10,13 +10,8 @@ def session_start(event):
 
 def message(msg):
     if msg['type'] in ('chat','normal'):
-        #print "msg recieved"
         msg1 = msg['body']
-        #print msg1
-        
-        #msg.reply("Thanks").send()
         reply = cb.Ask(msg1)
-        #print 'reply: ' + reply +'\n'
         msg.reply(reply).send()
 
 jid = 'YOUR-FB:ID@chat.facebook.com'
