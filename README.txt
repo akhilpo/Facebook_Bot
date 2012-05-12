@@ -2,7 +2,7 @@ Facebook Chatbot by 0xakhil
 (http://hexings.tumblr.com)
 
 About:
-Facebook Chat is a python script that interface Facebook chat to cleverbot severs. It automatically replies to your buddies' messages without any kind of input you. If you want to know what kind of reply it gives, try cleverbot.com. This script uses Sleekxmpp library, an excellent work from Fritzy for managing the xmpp protocol. 
+Facebook Chat is a python script that interface Facebook chat to cleverbot severs. It automatically replies to your buddies' messages without any kind of input from you. If you want to know what kind of reply it gives, try cleverbot.com. This script uses Sleekxmpp library, an excellent work from Fritzy for managing the xmpp protocol. 
 
 Requirements:
 * Python 2.x (Tested on 2.7.x). Gives encoding error in Python 3. Hopes to fix it soon.
