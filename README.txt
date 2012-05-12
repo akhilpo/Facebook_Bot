@@ -19,4 +19,4 @@ Optionally you can clone the whole project and push to Heroku to run it on the c
 
 
 Suggestion/Contribution:
-Install it, Test it and if you got better ideas, try to improve it. It�' completely open.
+Install it, Test it and if you got better ideas, try to improve it. It's completely open.
